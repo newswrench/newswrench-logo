@@ -8,3 +8,5 @@ newswrench-logo
 ## License
 
 Private unlicensed software. See [LICENSE.md][lic] for details.
+
+[lic]: LICENSE.md
