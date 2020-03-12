@@ -1,6 +1,6 @@
 {
   "name": "newswrench-logo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "description": "Official logo assets for NewsWrench",
   "main": "src/nwlogo.svg",

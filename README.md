@@ -2,12 +2,13 @@ newswrench-logo
 ===============
 *Official logo assets for NewsWrench.*
 
-- `src/` folder: original SVG files
-- `dst/` folder: generated PNGs
+- `src/`: original SVG files
+- `dst/`: generated PNGs
+- `tmp/`: sandbox
 
 ## Screenshot
 
-![](dst/nwlogo-256.png)
+![](dst/v2.0.0/newswrench-logo-v2.0.0-256.png)
 
 ## License
 
