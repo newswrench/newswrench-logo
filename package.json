@@ -1,5 +1,5 @@
 {
-  "name": "newswrench-logo",
+  "name": "nw-logo",
   "version": "2.0.0",
   "private": true,
   "description": "Official logo assets for NewsWrench",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/newswrench/newswrench-logo.git"
+    "url": "git+https://github.com/newswrench/nw-logo.git"
   },
   "keywords": [
     "SVG",
@@ -19,7 +19,7 @@
   "author": "James Devlin <hacksalot@indevious.com> (https://indevious.com)",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/newswrench/newswrench-logo/issues"
+    "url": "https://github.com/newswrench/nw-logo/issues"
   },
-  "homepage": "https://github.com/newswrench/newswrench-logo#readme"
+  "homepage": "https://github.com/newswrench/nw-logo#readme"
 }
